@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+*.exe
+*.cfg
+*.rmc
+*.log
+.env
+.env.*
+credentials.*
+secrets.*
+
